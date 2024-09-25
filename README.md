@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Bun venit pe profilul de GitHub al lui David Cătălin
 
 <!--
 #**avonmusk02/avonmusk02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
